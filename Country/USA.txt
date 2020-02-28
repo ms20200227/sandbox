@@ -1,3 +1,5 @@
 LosAngels
 SanFrancisco
 Seattle
+SanDiego
+LasVegas
