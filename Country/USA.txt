@@ -8,4 +8,5 @@ SanDiego
 LasVegas
 Sacramento
 Portland
-Washington(2)
+Spokan
+Washington
