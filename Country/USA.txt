@@ -6,3 +6,4 @@ Seattle
 SanDiego
 LasVegas
 Sacramento
+Portland
